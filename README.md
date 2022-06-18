@@ -3,4 +3,4 @@
 the app is hosted in heroku, share.streamlit.io/ajitnayak249/movie_recomindation/main/app.py. Its to recommendate the movies with the machine learning algorithm
 here is the app link 
 
-![App Screenshot]
+![App Screenshot](https://github.com/ajitnayak249/movie_recomindation/blob/main/movie.PNG)
